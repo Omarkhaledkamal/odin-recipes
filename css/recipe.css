@@ -1,0 +1,15 @@
+* {
+  font-family: Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: burlywood;
+}
+
+
+img {
+  width: 500px;
+  height: auto;
+}
