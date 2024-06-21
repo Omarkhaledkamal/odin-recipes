@@ -1,15 +1,43 @@
 * {
   font-family: Verdana, sans-serif;
+  box-sizing: border-box;
+  line-height: 25px;
 }
 
-h1,
-h2,
-h3 {
-  color: burlywood;
+p {
+  margin: 10px 0;
 }
 
+.hero {
+  margin-top: 10px;
+}
 
 img {
-  width: 500px;
-  height: auto;
+  width: 350px;
+  display: block;
+  margin: auto;
+}
+
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.ingredients {
+  padding: 10px;
+}
+
+h3 {
+  background-color: lightcyan;
+  border-left: 3px solid black;
+  padding: 10px;
+  margin: 0;
+}
+
+ul {
+  list-style-type: circle;
 }
